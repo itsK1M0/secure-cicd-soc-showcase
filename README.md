@@ -152,8 +152,9 @@ GitHub Actions fires on VM1 (self-hosted runner)
 ---
 
 ## Screenshots
-
-> Dashboard, alert views, and pipeline reports available on request.
+> <img width="1920" height="1031" alt="SS-06" src="https://github.com/user-attachments/assets/4eddf50b-97ae-4de4-8796-5c8ab0b8afa9" />
+> <img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/3c3d1efc-afb6-42d9-834d-ec23a695f10c" />
+> <img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/77e85785-fbb8-4169-8866-3c640def69db" />
 
 ---
 
