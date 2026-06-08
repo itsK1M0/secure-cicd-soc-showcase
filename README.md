@@ -4,6 +4,13 @@
 
 ---
 
+> [!NOTE]
+> **The full source repository is private.** It contains real VM configurations, pipeline scripts, and lab credentials from a live environment — keeping it private is intentional, not an oversight. This page exists as a public showcase of the project's architecture, design decisions, and results.
+>
+> The complete codebase, configs, and setup documentation are available upon request — for hiring, review, or collaboration purposes. → **[Get in touch](https://oussama.itskimo.workers.dev/#contact)**
+
+---
+
 ## What This Is
 
 A 3-VM homelab built from scratch on VMware, where a vulnerable Python app is used as a target to demonstrate an end-to-end secure development lifecycle:
@@ -158,4 +165,4 @@ Full portfolio: [kimo.dev](https://kimo.dev) · Built as a hands-on cybersecurit
 
 ---
 
-*Repository is private. This README serves as a public showcase. Code and configs available upon request for hiring purposes.*
+*Full setup guide, configs, and pipeline code available upon request → [contact me](https://oussama.itskimo.workers.dev/#contact)*
