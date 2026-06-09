@@ -133,7 +133,7 @@ GitHub Actions fires on VM1 (self-hosted runner)
 | 5 | ELK Stack on VM3, Filebeat on VM1, Kibana CI/CD dashboard | ✅ Complete |
 | 6 | SOC automation: pipeline auto-creates TheHive alerts on findings | ✅ Complete |
 | 7 | Cortex enrichment via CIRCLHashlookup, dashboard export, snapshots | ✅ Complete |
-| 8 | MISP integration — Cortex → MISP analyzer | ⏳ Planned |
+| 8 | MISP integration — Cortex → MISP analyzer |  ✅ Complete |
 
 ---
 
