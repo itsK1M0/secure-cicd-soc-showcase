@@ -162,7 +162,7 @@ GitHub Actions fires on VM1 (self-hosted runner)
 
 **Oussama El Gourjt** — [@itsK1M0](https://github.com/itsK1M0)
 
-Full portfolio: [kimo.dev](https://kimo.dev) · Built as a hands-on cybersecurity homelab to learn DevSecOps, SOC tooling, and log pipeline engineering from scratch.
+Full portfolio: [kimo](https://oussama.itskimo.workers.dev/) · Built as a hands-on cybersecurity homelab to learn DevSecOps, SOC tooling, and log pipeline engineering from scratch.
 
 ---
 
