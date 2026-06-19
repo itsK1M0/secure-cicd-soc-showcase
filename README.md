@@ -167,4 +167,5 @@ Full portfolio: [kimo](https://oussama.itskimo.workers.dev/) · Built as a hands
 ---
 
 *Full project writeup → [/projects/cicd-soc](https://oussama.itskimo.workers.dev/projects/cicd-soc)*
+
 *Full setup guide, configs, and pipeline code available upon request → [contact me](https://oussama.itskimo.workers.dev/#contact)*
